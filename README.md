@@ -24,7 +24,7 @@ A passionate Full-Stack developer from India.
 <a href="https://dev.to/prashant1k99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="prashant1k99" height="20" width="20" /></a>
 <a href="https://twitter.com/prashant1k99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prashant1k99" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/prashant1k99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prashant1k99" height="20" width="20" /></a>
-<a href="https://medium.com/prashant1k99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="prashant1k99" height="20" width="20" /></a>
+<a href="https://medium.com/@prashant1k99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="prashant1k99" height="20" width="20" /></a>
 
 ---
 
