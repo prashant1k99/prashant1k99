@@ -94,6 +94,6 @@ A passionate Full-Stack developer from India.
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
 
 ---
-<br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant1k99&layout=compact&hide=html" alt="prashant1k99" />
 <img src="https://github-readme-stats.codestackr.vercel.app/api?username=prashant1k99&show_icons=true&count_private=true" alt="prashant1k99" />
