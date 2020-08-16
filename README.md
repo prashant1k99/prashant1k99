@@ -3,8 +3,6 @@
 A passionate Full-Stack developer from India.
 
 ---
-
-<br />
 <img src="https://komarev.com/ghpvc/?username=prashant1k99" alt="prashant1k99" /> [![Twitter Follow](https://img.shields.io/twitter/follow/prashant1k99?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fprashant1k99&screen_name=prashant1k99)
 
 ### About Me
@@ -20,8 +18,6 @@ A passionate Full-Stack developer from India.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 - ⚡ Fun fact **Love to play Badminton and listen music a lot.**
-
-## <br />
 
 ### Connect with me.
 
@@ -100,6 +96,4 @@ A passionate Full-Stack developer from India.
 ---
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant1k99&layout=compact&hide=html" alt="prashant1k99" />
-<br/>
-<br/>
 <img src="https://github-readme-stats.codestackr.vercel.app/api?username=prashant1k99&show_icons=true&count_private=true" alt="prashant1k99" />
