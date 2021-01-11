@@ -95,7 +95,7 @@ A passionate Full-Stack developer from India.
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant1k99&layout=compact&hide=html&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="prashant1k99" />
+[![Prashant's language usage stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant1k99&layout=compact&hide=html&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/prashant1k99#hi--im-prashant)
 <!-- <img src="https://github-readme-stats.codestackr.vercel.app/api?username=prashant1k99&show_icons=true&count_private=true" alt="prashant1k99" /> -->
-<img src="https://github-readme-stats.vercel.app/api?username=prashant1k99&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&count_private=true" alt="prashant1k99" />
+[![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=prashant1k99&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&count_private=true)](https://github.com/prashant1k99#hi--im-prashant)
 
