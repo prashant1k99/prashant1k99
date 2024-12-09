@@ -1,6 +1,25 @@
 # 💫 About Me:
-🔭 **I’m currently working on**  <br>- Building efficient, scalable systems with a focus on optimizing performance, security, and reducing latency in APIs and databases.<br>- Implementing parallel processing, Firebase Authentication, and audit logs for secure and fast applications.<br>- Exploring deeper topics such as Encryption, Compression, and Protocols.<br><br>🤝 **I’m looking for help with**  <br>- Contributions and collaborations in open-source projects, especially in Golang, Rust, or system-level programming.<br>- Advanced topics in encryption, file compression, and network protocols.<br><br>🌱 **I’m currently learning**  <br>- Golang and Rust for high-performance back-end systems.<br>- Deeper insights into system-level programming, compression algorithms (like Zstd), and cryptographic techniques.<br><br>💬 **Ask me about**  <br>- Optimizing full-stack applications for high-performance use cases.<br>- Scaling Node.js and MongoDB systems, with a focus on API efficiency.<br>- Best practices in RESTful API development, Firebase Authentication, and secure database transactions.<br><br>⚡ **Fun fact**  <br>- I love Anime, Manga, Manhwa, retro music, and playing badminton in my free time!
+🔭 **I’m currently working on**  <br>
+* Building efficient, scalable systems with a focus on optimizing performance, security, and reducing latency in APIs and databases.
+* Implementing parallel processing, Firebase Authentication, and audit logs for secure and fast applications.
+* Exploring deeper topics such as Encryption, Compression, and Protocols.
 
+🤝 **I’m looking for help with**  
+* Contributions and collaborations in open-source projects, especially in Golang, Rust, or system-level programming.
+* Advanced topics in encryption, file compression, and network protocols.
+
+🌱 **I’m currently learning**  
+* Golang and Rust for high-performance back-end systems.
+* Deeper insights into system-level programming, compression algorithms (like Zstd), and cryptographic techniques.
+
+💬 **Ask me about**  
+* Optimizing full-stack applications for high-performance use cases.
+* Scaling Node.js and MongoDB systems, with a focus on API efficiency.
+* Best practices in RESTful API development, Firebase Authentication, and secure database transactions.
+
+⚡ **Fun fact**  
+* I love Anime, Manga, Manhwa, retro music, and playing badminton in my free time!
+<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashant1k99) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/prashant1k99) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prashant1k99) 
@@ -15,7 +34,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+<!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=prashant1k99&limit=5&theme=radical&combine_all_yearly_contributions=true)
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
